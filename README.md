@@ -1,5 +1,6 @@
+<img width="578" alt="Heading" src="https://user-images.githubusercontent.com/91798754/221243618-ee470c1f-09db-4e54-9c9d-89115930322e.png">
 
-![alt text](Vault/Heading.png "[Image added](https://raw.githubusercontent.com/sb255/Data-Structures/master/Vault/Heading.png)")
+
 
 ## *Data-Structure Topics:*
 
