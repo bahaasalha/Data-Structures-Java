@@ -1,5 +1,5 @@
 
-![alt text](Vault/Heading.png "Image added")
+![alt text](Vault/Heading.png "[Image added](https://raw.githubusercontent.com/sb255/Data-Structures/master/Vault/Heading.png)")
 
 ## *Data-Structure Topics:*
 
